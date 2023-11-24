@@ -44,7 +44,7 @@ Precision: 0.47288791980781353 \
 Recall: 0.39135446522908807 \
 F1 Score: 0.4031200242585607
 
-#### Neural Network (TODO - regularization, investigate why performance better on test set)
+#### Neural Network
 
 TODO
 
