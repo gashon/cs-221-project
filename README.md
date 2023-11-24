@@ -4,7 +4,7 @@ https://stanford-cs221.github.io/autumn2023/project.html
 
 ## Commands
 
-`conda create -n cs-221-project python=3.6`
+`conda create -n cs-221-project python=3.9`
 
 `conda cs-221-project`
 
