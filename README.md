@@ -48,10 +48,10 @@ F1 Score: 0.4031200242585607
 
 TODO
 
-- regularization/ overfitting checking \
+- regularization/ overfitting checking
 - investigate why performance better without minority class improvement (good for writeup)
 
-Accuracy: 0.7083727530747398
-Precision: 0.44464256168286637
-Recall: 0.5165500825427182
+Accuracy: 0.7083727530747398 \
+Precision: 0.44464256168286637 \
+Recall: 0.5165500825427182 \
 F1 Score: 0.4465402212325172
