@@ -46,12 +46,7 @@ F1 Score: 0.4031200242585607
 
 #### Neural Network
 
-TODO
-
-- regularization/ overfitting checking
-- investigate why performance better without minority class improvement (good for writeup)
-
-Accuracy: 0.7083727530747398 \
-Precision: 0.44464256168286637 \
-Recall: 0.5165500825427182 \
-F1 Score: 0.4465402212325172
+Accuracy: 0.8448964574792389
+Precision: 0.28163215249307966
+Recall: 0.3333333333333333
+F1 Score: 0.3053094403768174
