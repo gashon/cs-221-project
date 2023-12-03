@@ -33,7 +33,7 @@ F1 Score: 0.4277300172419794
 
 #### Random Forest
 
-Training Accuracy: 0.9910615736360769 \
+Training Accuracy: 0.6971529091769157 \
 Accuracy: 0.8390689057079785 \
 Precision: 0.4398733472394805 \
 Recall: 0.37845264291854663 \
