@@ -25,6 +25,7 @@ All models account for minority in dataset by increasing cost of misclassificati
 
 #### Logistic Regression
 
+Training Accuracy: 0.646784334594765 \
 Accuracy: 0.6477057710501419 \
 Precision: 0.4459873934685125 \
 Recall: 0.5219242645252017 \
@@ -32,13 +33,15 @@ F1 Score: 0.4277300172419794
 
 #### Random Forest
 
-Accuracy: 0.8384973194575843 \
-Precision: 0.4375527556979038 \
-Recall: 0.37723050001750785 \
-F1 Score: 0.38404902215644404
+Training Accuracy: 0.9910615736360769 \
+Accuracy: 0.8390689057079785 \
+Precision: 0.4398733472394805 \
+Recall: 0.37845264291854663 \
+F1 Score: 0.3857267024801713
 
 #### XG Boost
 
+Training Accuracy: 0.8597889072847682 \
 Accuracy: 0.850540050457269 \
 Precision: 0.47288791980781353 \
 Recall: 0.39135446522908807 \
@@ -46,7 +49,8 @@ F1 Score: 0.4031200242585607
 
 #### Neural Network
 
-Accuracy: 0.8448964574792389
-Precision: 0.28163215249307966
-Recall: 0.3333333333333333
+Training Accuracy: 0.8417428781667192 \
+Accuracy: 0.8448964574792389 \
+Precision: 0.28163215249307966 \
+Recall: 0.3333333333333333 \
 F1 Score: 0.3053094403768174
